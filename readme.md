@@ -18,7 +18,7 @@ Projeto em Node.js que utiliza a biblioteca [`prompt-sync`](https://www.npmjs.co
 ### 1. Clone o repositório (caso não esteja em sua máquina)
 
 ```bash
-git clone https://github.com/seu-usuario/listaExercicios01.git
+git clone https://github.com/DevViniciusCodes/listaExercicios01.git
 cd listaExercicios01
 ```
 
@@ -62,7 +62,7 @@ A Node.js project that uses the [`prompt-sync`](https://www.npmjs.com/package/pr
 ### 1. Clone the repository (if not already on your machine)
 
 ```bash
-git clone https://github.com/your-username/listaExercicios01.git
+git clone https://github.com/DevViniciusCodes/listaExercicios01.git
 cd listaExercicios01
 ```
 
